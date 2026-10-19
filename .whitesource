@@ -4,5 +4,13 @@
     "versioning": {
       "pnpm": "11.28.1"
     }
+  },
+  "scanSettingsSAST": {
+    "enableScan": false
+  },
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": false
+    }
   }
 }
